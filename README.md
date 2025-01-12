@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-Business%20Source%20License-blue)](LICENSE)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 A powerful CLI tool to analyze storage requirements for Telegram group media without downloading.
